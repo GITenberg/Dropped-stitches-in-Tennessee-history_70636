@@ -1,0 +1,44 @@
+_repo: Dropped-stitches-in-Tennessee-history_70636
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: White, Robert Looney Caruthers
+    alias: White, Robert Looney Carruthers
+    birthdate: 1844
+    gutenberg_agent_id: '55822'
+    url: http://www.gutenberg.org/2009/agents/55822
+creator:
+  author:
+    agent_name: Allison, John
+    birthdate: 1845
+    deathdate: 1920
+    gutenberg_agent_id: '55769'
+    url: http://www.gutenberg.org/2009/agents/55769
+description: ''
+gutenberg_issued: '2023-04-24'
+identifiers:
+  gutenberg: '70636'
+  lccn: rc01001272
+language: en
+pgterms:marc904: https://archive.org/details/droppedstitchesi00alli/page/n1/mode/2up
+pgterms:marc905: 20221006100354allison
+pgterms:marc906: '1897'
+pgterms:marc907: US
+production_note: Carla Foust and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bMarshall & Bruce Co., $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tennessee -- History'
+- !lcsh 'Jackson, Andrew, 1767-1845 -- Homes and haunts -- Tennessee'
+- !lcc 'F396'
+- GITenberg
+tableOfContents: Andrew Jackson, attorney at law -- The pickets of civilization --
+  A unique court -- A tragic episode -- Early Tennessee legislation -- Miro, alias
+  "Mero" -- Andrew Jackson as a "sport" -- Jackson's duel with Avery -- Andrew Jackson,
+  deputy sheriff and fireman -- Andrew Jackson, the man -- "A centennial dream" [by
+  Dr. R.L.C. White] -- Interpretation of the "dream."
+title: Dropped stitches in Tennessee history
+url: http://www.gutenberg.org/ebooks/70636

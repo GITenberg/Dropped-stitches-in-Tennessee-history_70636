@@ -7,6 +7,9 @@ contributor:
     birthdate: 1844
     gutenberg_agent_id: '55822'
     url: http://www.gutenberg.org/2009/agents/55822
+covers:
+- cover_type: archival
+  image_path: 70636-h/images/cover.jpg
 creator:
   author:
     agent_name: Allison, John
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '55769'
     url: http://www.gutenberg.org/2009/agents/55769
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70636#Dropped-stitches-in-Tennessee-history
 gutenberg_issued: '2023-04-24'
 identifiers:
   gutenberg: '70636'
